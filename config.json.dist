@@ -1,0 +1,9 @@
+{
+	"DirectoryToScan" 	: "/where/to/read/UrlSync",
+	"LogFile" 			: "/where/to/save/.urlSync.log",
+	"UseFiles" 			: true,
+	"UseHttp" 			: false,
+	"UseFileLog"		: false,
+	"HttpPort"			: 4040,
+	"SecretKey"			: "some-secret-key"
+}
